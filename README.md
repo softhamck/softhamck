@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-¡Hola! 👋 Soy [Andrea], una apasionada desarrolladora de software.<br>💻 Codeando en C++, C#, Python, y Dart. <br> 🌐 Diseñando la web con HTML, CSS y JavaScript.
+¡Hola! 👋 Soy Andrea, una apasionada desarrolladora de software.<br>💻 Codeando en C++, C#, Python, y Dart. <br> 🌐 Diseñando la web con HTML, CSS y JavaScript.
 
 
 # 💻 Tecnologías:
